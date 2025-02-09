@@ -14,10 +14,10 @@ A simple command-line tool to convert a 16-bit BMP image to an 8-bit BMP using t
 
 ## Input and Output
 ### Original 16-bit BMP (Input)
-![Input Image](input.bmp)
+![Input Image](input.png)
 
 ### Converted 8-bit BMP (Output)
-![Output Image](output.bmp)
+![Output Image](output.png)
 
 ## Compilation
 
