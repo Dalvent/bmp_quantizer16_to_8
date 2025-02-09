@@ -32,7 +32,3 @@ Compile with MSVC:
 ```sh
 cl /EHsc /std=c++17 bmp_quantizer.cpp
 ```
-
-## License
-MIT License
-
